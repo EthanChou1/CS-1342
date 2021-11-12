@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/tmp/tmp.aJSf6qf3mu/Contact.h
+iostream
+-
+fstream
+-
+sstream
+-
+iomanip
+-
+
+/tmp/tmp.aJSf6qf3mu/Rolodex.cpp
+Rolodex.h
+/tmp/tmp.aJSf6qf3mu/Rolodex.h
+Contact.h
+/tmp/tmp.aJSf6qf3mu/Contact.h
+iostream
+-
+fstream
+-
+sstream
+-
+iomanip
+-
+
+/tmp/tmp.aJSf6qf3mu/Rolodex.h
+Contact.h
+/tmp/tmp.aJSf6qf3mu/Contact.h
+iostream
+-
+fstream
+-
+sstream
+-
+iomanip
+-
+
