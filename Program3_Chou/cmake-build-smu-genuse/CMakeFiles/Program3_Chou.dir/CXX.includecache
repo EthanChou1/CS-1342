@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/tmp/tmp.T2CjsEYuAk/Function.cpp
+iostream
+-
+fstream
+-
+vector
+-
+string
+-
+cctype
+-
+Function.h
+/tmp/tmp.T2CjsEYuAk/Function.h
+string
+-
+sstream
+-
+
+/tmp/tmp.T2CjsEYuAk/Function.h
+iostream
+-
+fstream
+-
+vector
+-
+string
+-
+cctype
+-
+

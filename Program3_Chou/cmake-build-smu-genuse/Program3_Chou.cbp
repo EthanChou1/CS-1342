@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+   <FileVersion major="1" minor="6" />
+   <Project>
+      <Option title="Program3_Chou" />
+      <Option makefile_is_custom="1" />
+      <Option compiler="gcc" />
+      <Option virtualFolders="CMake Files\;" />
+      <Build>
+      <Target title="all">
+         <Option working_dir="/tmp/tmp.T2CjsEYuAk/cmake-build-smu-genuse" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/gmake -f &quot;/tmp/tmp.T2CjsEYuAk/cmake-build-smu-genuse/Makefile&quot;  VERBOSE=1 all" />
+            <CompileFile command="/usr/bin/gmake -f &quot;/tmp/tmp.T2CjsEYuAk/cmake-build-smu-genuse/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/gmake -f &quot;/tmp/tmp.T2CjsEYuAk/cmake-build-smu-genuse/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/gmake -f &quot;/tmp/tmp.T2CjsEYuAk/cmake-build-smu-genuse/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="Program3_Chou">
+         <Option output="/tmp/tmp.T2CjsEYuAk/cmake-build-smu-genuse/Program3_Chou" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/tmp/tmp.T2CjsEYuAk/cmake-build-smu-genuse" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/include" />
+            <Add directory="/usr/local/es7/include" />
+            <Add directory="/usr/local/es7/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0" />
+            <Add directory="/usr/local/es7/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0/backward" />
+            <Add directory="/usr/local/es7/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0/x86_64-pc-linux-gnu" />
+            <Add directory="/usr/local/es7/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include" />
+            <Add directory="/usr/local/es7/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/gmake -f &quot;/tmp/tmp.T2CjsEYuAk/cmake-build-smu-genuse/Makefile&quot;  VERBOSE=1 Program3_Chou" />
+            <CompileFile command="/usr/bin/gmake -f &quot;/tmp/tmp.T2CjsEYuAk/cmake-build-smu-genuse/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/gmake -f &quot;/tmp/tmp.T2CjsEYuAk/cmake-build-smu-genuse/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/gmake -f &quot;/tmp/tmp.T2CjsEYuAk/cmake-build-smu-genuse/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="Program3_Chou/fast">
+         <Option output="/tmp/tmp.T2CjsEYuAk/cmake-build-smu-genuse/Program3_Chou" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/tmp/tmp.T2CjsEYuAk/cmake-build-smu-genuse" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/include" />
+            <Add directory="/usr/local/es7/include" />
+            <Add directory="/usr/local/es7/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0" />
+            <Add directory="/usr/local/es7/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0/backward" />
+            <Add directory="/usr/local/es7/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0/x86_64-pc-linux-gnu" />
+            <Add directory="/usr/local/es7/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include" />
+            <Add directory="/usr/local/es7/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/gmake -f &quot;/tmp/tmp.T2CjsEYuAk/cmake-build-smu-genuse/Makefile&quot;  VERBOSE=1 Program3_Chou/fast" />
+            <CompileFile command="/usr/bin/gmake -f &quot;/tmp/tmp.T2CjsEYuAk/cmake-build-smu-genuse/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/gmake -f &quot;/tmp/tmp.T2CjsEYuAk/cmake-build-smu-genuse/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/gmake -f &quot;/tmp/tmp.T2CjsEYuAk/cmake-build-smu-genuse/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="rebuild_cache">
+         <Option working_dir="/tmp/tmp.T2CjsEYuAk/cmake-build-smu-genuse" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/gmake -f &quot;/tmp/tmp.T2CjsEYuAk/cmake-build-smu-genuse/Makefile&quot;  VERBOSE=1 rebuild_cache" />
+            <CompileFile command="/usr/bin/gmake -f &quot;/tmp/tmp.T2CjsEYuAk/cmake-build-smu-genuse/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/gmake -f &quot;/tmp/tmp.T2CjsEYuAk/cmake-build-smu-genuse/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/gmake -f &quot;/tmp/tmp.T2CjsEYuAk/cmake-build-smu-genuse/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      </Build>
+      <Unit filename="/tmp/tmp.T2CjsEYuAk/Function.cpp">
+      </Unit>
+      <Unit filename="/tmp/tmp.T2CjsEYuAk/main.cpp">
+      </Unit>
+      <Unit filename="/tmp/tmp.T2CjsEYuAk/Function.h">
+      </Unit>
+      <Unit filename="/tmp/tmp.T2CjsEYuAk/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\" />
+      </Unit>
+      <Unit filename="/tmp/tmp.T2CjsEYuAk/Table1.csv">
+          <Option virtualFolder="CMake Files\" />
+      </Unit>
+      <Unit filename="/tmp/tmp.T2CjsEYuAk/Table2.csv">
+          <Option virtualFolder="CMake Files\" />
+      </Unit>
+   </Project>
+</CodeBlocks_project_file>
