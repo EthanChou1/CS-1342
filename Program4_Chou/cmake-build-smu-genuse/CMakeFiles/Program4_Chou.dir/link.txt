@@ -1,0 +1,1 @@
+/usr/local/es7/bin/c++   -g    CMakeFiles/Program4_Chou.dir/main.cpp.o CMakeFiles/Program4_Chou.dir/FirstFirework.cpp.o CMakeFiles/Program4_Chou.dir/SecondFirework.cpp.o CMakeFiles/Program4_Chou.dir/ThirdFirework.cpp.o CMakeFiles/Program4_Chou.dir/FourthFirework.cpp.o CMakeFiles/Program4_Chou.dir/OtherFunctions.cpp.o  -o Program4_Chou -rdynamic 
