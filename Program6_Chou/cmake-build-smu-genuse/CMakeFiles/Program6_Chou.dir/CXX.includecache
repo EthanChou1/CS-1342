@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/tmp/tmp.ZlwxTCvFrl/Pixel.h
+stdio.h
+-
+iostream
+-
+cassert
+-
+array
+-
+
+/tmp/tmp.ZlwxTCvFrl/Renderer.h
+cassert
+-
+array
+-
+vector
+-
+Pixel.h
+/tmp/tmp.ZlwxTCvFrl/Pixel.h
+
+/tmp/tmp.ZlwxTCvFrl/main.cpp
+iostream
+-
+cassert
+-
+array
+-
+vector
+-
+Pixel.h
+/tmp/tmp.ZlwxTCvFrl/Pixel.h
+Renderer.h
+/tmp/tmp.ZlwxTCvFrl/Renderer.h
+random
+-
+
